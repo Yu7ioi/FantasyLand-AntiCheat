@@ -1,5 +1,5 @@
 # FantasyLand-AntiCheat
-## 手机掉线器修复
+## FantasyLand反作弊系统
 #### 说明以及使用
 1.需要PawnRaknet插件来支持该脚本
 2.由于samp死光 这个脚本我也不会对他进行维护了
